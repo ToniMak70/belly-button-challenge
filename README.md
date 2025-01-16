@@ -5,11 +5,15 @@ The objective of this dashboard is to allow users to explore the OTUs found in d
 
 ## Project Overview
 This project involves creating a web-based dashboard with the following features:
-1. **Horizontal Bar Chart** displaying the top 10 OTUs found in an individual’s sample.
-2. **Bubble Chart** that plots the OTUs for each sample.
-3. **Metadata Display** showing key demographic information of the sample.
-The dashboard will update dynamically when the user selects a new sample from a dropdown menu.
+1. **Horizontal Bar Chart** displaying the top 10 OTUs found in an individual’s sample. 
+![Dashboard](https://github.com/user-attachments/assets/74e6d778-76f3-43d1-99ee-088ad86c6f68)
 
+3. **BubbleChart** that plots the OTUs for each sample.
+![bacteria samples](https://github.com/user-attachments/assets/808b1529-03c5-497b-816d-bdc689afb7ec)
+
+4. **Metadata Display** showing key demographic information of the sample.
+The dashboard will update dynamically when the user selects a new sample from a dropdown menu.
+![dropdown](https://github.com/user-attachments/assets/bb47fd8f-69da-408f-aac2-023bae238323)
 
 
 ## File Structure

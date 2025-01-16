@@ -1,4 +1,6 @@
 # belly-button-challenge
+![Dashboard](https://github.com/user-attachments/assets/0c8e215a-387f-41a2-be88-0f4e45a40091)
+
 ## Background
 In this project, we build an interactive dashboard to explore the **Belly Button Biodiversity dataset**, which catalogs the microbial species (also called Operational Taxonomic Units or OTUs) that inhabit human navels. The dataset reveals that only a small number of microbial species are present in over 70% of the sampled individuals, while the remaining species are relatively rare.
 The objective of this dashboard is to allow users to explore the OTUs found in different people’s belly buttons, visualize the data, and display metadata associated with each individual sample.
@@ -6,7 +8,7 @@ The objective of this dashboard is to allow users to explore the OTUs found in d
 ## Project Overview
 This project involves creating a web-based dashboard with the following features:
 1. **Horizontal Bar Chart** displaying the top 10 OTUs found in an individual’s sample. 
-![Dashboard](https://github.com/user-attachments/assets/74e6d778-76f3-43d1-99ee-088ad86c6f68)
+![bacteria cultures](https://github.com/user-attachments/assets/3228f612-d77f-499f-889b-143ddd04a6e2)
 
 3. **BubbleChart** that plots the OTUs for each sample.
 ![bacteria samples](https://github.com/user-attachments/assets/808b1529-03c5-497b-816d-bdc689afb7ec)

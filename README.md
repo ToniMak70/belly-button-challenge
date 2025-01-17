@@ -23,7 +23,7 @@ belly-button-challenge/
 ├── index.html
 ├── samples.json
 ├── static/
-│   ├── css/
+│   ├── cs/
 │   ├── images/
 │   └── js/
 └── README.md
